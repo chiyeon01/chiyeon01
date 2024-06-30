@@ -4,11 +4,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=200&section=header&text=Welcome%20to%20me!&fontSize=60" />
 <br/><br/><br/><br/><br/><br/>
 
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyeon01&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcy4023)](https://solved.ac/jcy4023/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiyeon01)](https://github.com/anuraghazra/github-readme-stats)
+
+### ✔ Skills
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-<br/>
+
+### ✔ Want To Study
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ✔ Use & Tool
 ![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiyeon01)](https://github.com/anuraghazra/github-readme-stats)
+### ✔ My Blog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=03_is_good)](https://velog.io/@jcy4023)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
