@@ -8,7 +8,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcy4023)](https://solved.ac/jcy4023/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiyeon01)](https://github.com/anuraghazra/github-readme-stats)
 
-### ✔ Skills
+### ✔ Tech Stack
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
