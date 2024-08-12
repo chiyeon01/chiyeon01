@@ -19,6 +19,7 @@
 ### ✔ Use & Tool
 ![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
 
 ### ✔ My Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=03_is_good)](https://velog.io/@jcy4023)
