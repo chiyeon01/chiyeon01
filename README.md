@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=200&section=header&text=Welcome%20to%20me!&fontSize=60" />
+
 #### Hi there 🙌 
 #### I'm chiyeon who wants to be AI developer !
 #### 🔍Sejong University Intelligent Mechatronics Engineering 1 grade !
