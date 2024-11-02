@@ -1,7 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=200&section=header&text=Welcome%20to%20me!&fontSize=60" />
 #### Hi there 🙌 
 #### I'm chiyeon who wants to be AI developer !
 #### 🔍Sejong University Intelligent Mechatronics Engineering 1 grade !
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=200&section=header&text=Welcome%20to%20me!&fontSize=60" />
 <br/><br/><br/><br/><br/><br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyeon01&show_icons=true&theme=radical)
