@@ -22,4 +22,5 @@
 
 ### ✔ My Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=03_is_good)](https://velog.io/@jcy4023)
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=03_is_good)](https://velog.io/@jcy4023)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chiyeon01)
