@@ -5,8 +5,8 @@
 #### 🔍Sejong University Intelligent Mechatronics Engineering 1 grade !
 <br/><br/>
 
-* [DACON] 2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문 61/940(상위 6.48%)
-* [DACON] 건설용 자갈 암석 종류 분류 AI 경진대회 32/342(상위 9.35%)
+* [DACON] 2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문 61/940 (상위 6.48%) 
+* [DACON] 건설용 자갈 암석 종류 분류 AI 경진대회 32/342 (상위 9.35%)
 * Catridge Project 진행중 ...
 <br/><br/><br/><br/>
 
