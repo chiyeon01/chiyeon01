@@ -5,6 +5,10 @@
 #### 🔍Sejong University Intelligent Mechatronics Engineering 1 grade !
 <br/><br/><br/><br/>
 
+* [DACON] 2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문 61/940(상위 6.48%)
+* [DACON] 건설용 자갈 암석 종류 분류 AI 경진대회 32/342(상위 9.35%)
+<br/><br/><br/><br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyeon01&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcy4023)](https://solved.ac/jcy4023/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiyeon01)](https://github.com/anuraghazra/github-readme-stats)
