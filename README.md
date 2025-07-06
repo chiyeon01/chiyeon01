@@ -12,7 +12,8 @@
 <br/>
 
 * [Project]Catridge Project(자동 탄피 추출기) => 협업 ✔
-* [Project]ETF Service 진행중...
+---
+* [Project]ETF Service 진행중...<br/>
   [ETF Service Github](https://github.com/chiyeon01/ETF-Service).
 <br/><br/><br/><br/>
 
