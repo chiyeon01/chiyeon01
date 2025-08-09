@@ -7,18 +7,21 @@
 
 ## Competition 🤖
 ---
-* [DACON] 2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문 61/940 (상위 6.48%) => 개인 ✔
+* [DACON] 2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문 61/940 (상위 6.48%) => 개인 ✔<br/>
+  [[DACON] 2024 생명연구자원 AI활용 경진대회](https://dacon.io/competitions/official/236355/overview/description)
 ---
-* [DACON] 건설용 자갈 암석 종류 분류 AI 경진대회 32/342 (상위 9.35%) => 개인 ✔
+* [DACON] 건설용 자갈 암석 종류 분류 AI 경진대회 : 32/342 (상위 9.35%) => 개인 ✔<br/>
+  [[DACON] 건설용 자갈 암석 종류 분류 AI 경진대회](https://dacon.io/competitions/official/236471/overview/description)
 ---
-* [DACON] HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 70/748 (상위 9.35%) => 개인 ✔
+* [DACON] HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 70/748 (상위 9.35%) => 개인 ✔<br/>
+  [[DACON] HAI(하이)! - Hecto AI Challenge](https://dacon.io/competitions/official/236493/overview/description)
 ---
 <br/><br/>
 
 ## Project 🤖
 ---
 * [Project]Catridge Project(자동 탄피 추출기) => 협업 ✔ <br/>
-[Catridge Project](https://github.com/chiyeon01/Catridge_case-detect-project)
+  [Catridge Project](https://github.com/chiyeon01/Catridge_case-detect-project)
 ---
 * [Project]ETF Service 진행중...<br/>
   [ETF Service Github](https://github.com/chiyeon01/ETF-Service).
