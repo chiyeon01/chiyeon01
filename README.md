@@ -16,6 +16,8 @@
 * [DACON] HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 70/748 (상위 9.35%) => 개인 ✔<br/>
   [[DACON] HAI(하이)! - Hecto AI Challenge](https://dacon.io/competitions/official/236493/overview/description)
 ---
+* [DACON] 데이콘 x BDA 학습자 수료 예측 AI 경진대회 27/275 (상위 9.81%) => 개인 ✔<br/>
+---
 <br/><br/>
 
 ## Project 🤖
@@ -23,7 +25,7 @@
 * [Project]Catridge Project(자동 탄피 추출기) => 협업 ✔ <br/>
   [Catridge Project](https://github.com/chiyeon01/Catridge_case-detect-project)
 ---
-* [Project]ETF Service 진행중...<br/>
+* [Project]ETF Service => 협업 ✔ <br/>
   [ETF Service Github](https://github.com/chiyeon01/ETF-Service).
 <br/><br/><br/><br/>
 
