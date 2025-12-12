@@ -37,9 +37,7 @@
 ---
 
 <br/><br/><br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyeon01&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcy4023)](https://solved.ac/jcy4023/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiyeon01)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤖 Tech Stack
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -62,3 +60,8 @@
 ### ✉ My Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=03_is_good)](https://velog.io/@chiyeon01/series)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chiyeon01)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyeon01&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiyeon01)](https://github.com/anuraghazra/github-readme-stats)
