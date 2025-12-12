@@ -30,10 +30,10 @@
   [ETF Service Github](https://github.com/chiyeon01/ETF-Service).
 ---
 * [Project]Routing NetWork System => 개인 ✔ <br/>
-  [Routing NetWork System](https://github.com/chiyeon01/ETF-Service).
+  [Routing NetWork System](https://github.com/chiyeon01/Routing_Network_System).
 ---
 * [Project]Retouching Your Photo => 협업 ✔ <br/>
-  [Retouching Your Photo](https://github.com/chiyeon01/ETF-Service).
+  [Retouching Your Photo](https://github.com/chiyeon01/Retouching_Your_Photo).
 ---
 
 <br/><br/><br/><br/>
