@@ -17,7 +17,7 @@
   [[DACON] HAI(하이)! - Hecto AI Challenge](https://dacon.io/competitions/official/236493/overview/description)
 ---
 * [DACON] 데이콘 x BDA 학습자 수료 예측 AI 경진대회 27/275 (상위 9.81%) => 개인 ✔<br/>
-[[DACON] HAI(하이)! - Hecto AI Challenge](https://dacon.io/competitions/official/236493/overview/description)
+[[DACON] 데이콘 x BDA 학습자 수료 예측 AI 경진대회](https://dacon.io/competitions/official/236519/overview/description)
 ---
 <br/><br/>
 
