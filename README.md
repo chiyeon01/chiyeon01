@@ -3,7 +3,7 @@
 #### 🔍Sejong University Intelligent Mechatronics Engineering 1 grade !
 <br/><br/>
 
-## Competition 🤖
+## Competition 🏆
 ---
 * [DACON] 2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문 61/940 (상위 6.48%) => 개인 ✔<br/>
   [[DACON] 2024 생명연구자원 AI활용 경진대회](https://dacon.io/competitions/official/236355/overview/description)
@@ -19,7 +19,7 @@
 ---
 <br/><br/>
 
-## Project 🤖
+## Project 💡
 ---
 * [Project]Catridge Project(자동 탄피 추출기) => 협업 ✔ <br/>
   [Catridge Project](https://github.com/chiyeon01/Catridge_case-detect-project)
