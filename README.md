@@ -1,4 +1,4 @@
-#### Hi there 🙌 
+## Hi there 🙌 
 #### I'm chiyeon who wants to be AI engineer !
 #### 🔍Sejong University Intelligent Mechatronics Engineering 1 grade !
 <br/><br/>
