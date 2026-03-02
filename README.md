@@ -5,33 +5,33 @@
 
 ## Competition 🏆
 ---
-* [DACON] 2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문 61/940 (상위 6.48%) => 개인 ✔<br/>
+* [DACON] 2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문 61/940 (상위 6.48%) ✔<br/>
   [[DACON] 2024 생명연구자원 AI활용 경진대회](https://dacon.io/competitions/official/236355/overview/description)
 ---
-* [DACON] 건설용 자갈 암석 종류 분류 AI 경진대회 : 32/342 (상위 9.35%) => 개인 ✔<br/>
+* [DACON] 건설용 자갈 암석 종류 분류 AI 경진대회 : 32/342 (상위 9.35%) ✔<br/>
   [[DACON] 건설용 자갈 암석 종류 분류 AI 경진대회](https://dacon.io/competitions/official/236471/overview/description)
 ---
-* [DACON] HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 70/748 (상위 9.35%) => 개인 ✔<br/>
+* [DACON] HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 70/748 (상위 9.35%) ✔<br/>
   [[DACON] HAI(하이)! - Hecto AI Challenge](https://dacon.io/competitions/official/236493/overview/description)
 ---
-* [DACON] 데이콘 x BDA 학습자 수료 예측 AI 경진대회 27/275 (상위 9.81%) => 개인 ✔<br/>
+* [DACON] 데이콘 x BDA 학습자 수료 예측 AI 경진대회 27/275 (상위 9.81%) ✔<br/>
 [[DACON] 데이콘 x BDA 학습자 수료 예측 AI 경진대회](https://dacon.io/competitions/official/236519/overview/description)
 ---
 <br/><br/>
 
 ## Project 💡
 ---
-* [Project]Catridge Project(자동 탄피 추출기) => 협업 ✔ <br/>
+* [Project]Catridge Project(자동 탄피 추출기) ✔ <br/>
   [Catridge Project](https://github.com/chiyeon01/Catridge_case-detect-project)
 ---
-* [Project]ETF Service => 협업 ✔ <br/>
+* [Project]ETF Service ✔ <br/>
   [ETF Service Github](https://github.com/chiyeon01/ETF-Service).
 ---
-* [Project]Routing NetWork System => 개인 ✔ <br/>
+* [Project]Routing NetWork System ✔ <br/>
   [Routing NetWork System](https://github.com/chiyeon01/Routing_Network_System).
 ---
-* [Project]Retouching Your Photo => 협업 ✔ <br/>
-  [Retouching Your Photo](https://github.com/chiyeon01/Retouching_Your_Photo).
+* [Project]Retouching Your Photo ✔ <br/>
+  [Retouch Your Photo](https://github.com/chiyeon01/Retouch_Your_Photo).
 ---
 
 <br/><br/><br/><br/>
