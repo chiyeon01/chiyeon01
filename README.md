@@ -17,6 +17,9 @@
 * [DACON] 데이콘 x BDA 학습자 수료 예측 AI 경진대회 27/275 (상위 9.81%) ✔<br/>
 [[DACON] 데이콘 x BDA 학습자 수료 예측 AI 경진대회](https://dacon.io/competitions/official/236519/overview/description)
 ---
+* [대회] ALOM DEMO 3등 우수상 🏆<br/>
+[ALOM DEMO](https://www.instagram.com/alomsejong/)
+---
 <br/><br/>
 
 ## Project 💡
