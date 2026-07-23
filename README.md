@@ -4,8 +4,6 @@
 
 **AI Engineer**를 꿈꾸는 세종대학교 지능기전공학과 2학년입니다.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcy4023)](https://solved.ac/jcy4023/)
-
 </div>
 
 <br/>
@@ -116,6 +114,9 @@
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ---
+
+## 📚 알고리즘
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcy4023)](https://solved.ac/jcy4023/)
 
 ## 📊 GitHub Stats
 
