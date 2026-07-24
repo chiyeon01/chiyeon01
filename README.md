@@ -1,5 +1,7 @@
 <div align="center">
 
+[🇰🇷 **한국어**](README.md) · [🇺🇸 English](README.en.md)
+
 # Hi, I'm Chiyeon 👋
 
 **AI Engineer**를 꿈꾸는 세종대학교 지능기전공학과 2학년입니다.
@@ -11,6 +13,7 @@
 ## 👋 About Me
 
 데이터로 문제를 정의하고, 모델로 답을 찾고, 서비스로 완성하는 AI 엔지니어를 꿈꾸고 있습니다.
+촛불처럼 잔잔하게 끝까지 타오르는 사람입니다. 저만의 기술과 아이디어로 세상을 좋은 방향으로 바꾸길 소망합니다.😀
 
 - 🎓 세종대학교 지능기전공학과 (Intelligent Mechatronics Engineering) 2학년
 - 🔍 DACON 경진대회를 통해 정형·비전 데이터를 다루는 실전 감각을 키우는 중입니다
@@ -147,9 +150,6 @@
 </td>
 </tr>
 
-</td>
-</tr>
-
 <tr>
 <td align="center">┃</td>
 <td></td>
@@ -173,7 +173,7 @@
 - 이후, 일정량 이상의 충격이 감지되면 IOT COSS로 GPS 정보와 함께 충격량도 저장 후, FastAPI서버에 전달
 - FastAPI에서는 이 충격이 정말 균열에 의한 것인지 실시간 Camera를 통해 Segmentation Model로 분석 후 판단하여 UI에 띄우고 저장.
 
-📽️ [발표자료](https://canva.link/z05u8pkmogeuden) 
+📽️ [발표자료](https://canva.link/z05u8pkmogeuden)
 
 </td>
 </tr>
