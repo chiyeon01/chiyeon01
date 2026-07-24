@@ -48,7 +48,7 @@
 ---
 
 ### 🛜 [Routing Network System](https://github.com/chiyeon01/Routing_Network_System)
-`Streamlit` `Function Calling` `Naver 믿:음 2.0 Mini`
+`Streamlit` `Function Calling` `KT 믿:음 2.0 Mini`
 
 **K intelligence 해커톤 2025 (Track1: AI Agent 개발)** 참가작으로, 기업마다 고유한 페르소나를 가진 AI Agent가 서로의 네트워크를 구성해 소통하는 프로토타입입니다.
 
@@ -88,6 +88,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Machine Learning / Deep Learning**
 
@@ -103,7 +104,6 @@
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
