@@ -28,7 +28,8 @@
 | [건설용 자갈 암석 종류 분류 AI 경진대회](https://dacon.io/competitions/official/236471/overview/description) | 32/342<br/>(상위 9.35%) | 건설용 자갈 이미지 기반 암석 종류 분류 (Vision) |
 | [HAI(하이)! - Hecto AI Challenge](https://dacon.io/competitions/official/236493/overview/description) | 70/748<br/>(상위 9.35%) | 중고차 이미지 기반 차종 분류 (Vision) |
 | [데이콘 x BDA 학습자 수료 예측 AI 경진대회](https://dacon.io/competitions/official/236519/overview/description) | 27/275<br/>(상위 9.81%) | 학습자 설문 데이터 기반 수료 여부 예측 |
-| [26년 ALOM DEMO (@alomsejong)](https://www.instagram.com/alomsejong/) | 3등🥉 | 특정 사진작가의 스타일을 학습해 실시간으로 촬영 구도를 가이드
+| [26년 ALOM DEMO (@alomsejong)](https://www.instagram.com/alomsejong/) | 우수상(3등)🥉 | 특정 사진작가의 스타일을 학습해 실시간으로 촬영 구도 가이드 |
+| [[SW중심대학사업단] 2026-1학기 AI·SW중심대학 디지털 경진대회 교내 선발](https://do.sejong.ac.kr/ko/program/all/view/4147) | 최우수상(2등)🥈 | Agent Navigation 예측 성능 극대화와 같은 Kaggle 형식의 대회 |
 
 ---
 
@@ -142,6 +143,37 @@
 - PyTorch Lite로 온디바이스 추론을 구현해 카메라 화면에서 바로 피드백
 
 📽️ [발표자료](https://www.canva.com/design/DAHAiN_OG68/3itKJNmlflSALfVwwKLIfw/edit?utm_content=DAHAiN_OG68&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) · ✍️ [프로젝트 후기](https://velog.io/@chiyeon01/Project-Retouching-Your-Photo)
+
+</td>
+</tr>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">┃</td>
+<td></td>
+</tr>
+
+<tr>
+<td align="center" valign="top" width="150">
+
+🟠<br>
+2026.06 ~
+
+</td>
+<td valign="top">
+
+### 📸 [Crack Detection System](https://github.com/chiyeon01/Crack_Detection_System)
+`Arduino` `IOT COSS` `FastAPI` `PyTorch` `YOLO` 
+
+도로의 미세한 균열을 센서를 통해 충격량을 1차적으로 파악하고, GPS와 Segmentation Model을 통해 최종적으로 균열의 상태를 파악해 지도에 표시하여 **도로 상태를 관리하는 시스템**입니다.
+
+- 가속도 센서에서 0.1초간 정보를 받아 충격량 계산 후 임계값에 따라 처리
+- 이후, 일정량 이상의 충격이 감지되면 IOT COSS로 GPS 정보와 함께 충격량도 저장 후, FastAPI서버에 전달
+- FastAPI에서는 이 충격이 정말 균열에 의한 것인지 실시간 Camera를 통해 Segmentation Model로 분석 후 판단하여 UI에 띄우고 저장.
+
+📽️ [발표자료](https://www.canva.com/design/DAHAiN_OG68/3itKJNmlflSALfVwwKLIfw/edit?utm_content=DAHAiN_OG68&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 </td>
 </tr>
