@@ -32,7 +32,7 @@
 | [HAI(하이)! - Hecto AI Challenge](https://dacon.io/competitions/official/236493/overview/description) | 70/748<br/>(상위 9.35%) | 중고차 이미지 기반 차종 분류 (Vision) |
 | [데이콘 x BDA 학습자 수료 예측 AI 경진대회](https://dacon.io/competitions/official/236519/overview/description) | 27/275<br/>(상위 9.81%) | 학습자 설문 데이터 기반 수료 여부 예측 |
 | [26년 ALOM DEMO (@alomsejong)](https://www.instagram.com/alomsejong/) | 우수상(3등)🥉 | 특정 사진작가의 스타일을 학습해 실시간으로 촬영 구도 가이드 |
-| [[SW중심대학사업단] 2026-1학기 AI·SW중심대학 디지털 경진대회 교내 선발](https://do.sejong.ac.kr/ko/program/all/view/4147) | 최우수상(2등)🥈 | Agent Navigation 예측 성능 극대화와 같은 Kaggle 형식의 대회 |
+| [[SW중심대학사업단] 2026-1학기 AI·SW중심대학 디지털 경진대회 교내 선발](https://do.sejong.ac.kr/ko/program/all/view/4147) | 최우수상(2등)🥈 | Agent Navigation 예측 성능 극대화 (Kaggle 형식의 대회) |
 
 ---
 
