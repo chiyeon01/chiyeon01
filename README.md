@@ -34,18 +34,75 @@
 
 ## 💡 Projects
 
-### 📸 [Retouch Your Photo](https://github.com/chiyeon01/Retouch_Your_Photo)
-`Flutter` `Dart` `PyTorch Lite` `YOLO` `MobileNet`
+<table>
+<thead>
+<tr>
+<th align="center">기간</th>
+<th align="left">프로젝트</th>
+</tr>
+</thead>
+<tbody>
 
-특정 사진작가의 스타일을 학습해 실시간으로 촬영 구도를 가이드해주는 **Flutter 앱**입니다.
+<tr>
+<td align="center" valign="top" width="150">
 
-- YOLO(객체 탐지) · Depth Estimator(원근감 추정) · MobileNet(특징 추출) · Embedding(작가 스타일 추출) · Regression Layer를 결합한 **커스텀 모델을 직접 설계**
-- 좌우 / 상하 / 앞뒤 / 기울기 / 회전 / Good까지 **6축 실시간 가이드** 제공
-- PyTorch Lite로 온디바이스 추론을 구현해 카메라 화면에서 바로 피드백
+🔵<br>
+**2025.05 ~ 2025.06**
 
-📽️ [발표자료](https://www.canva.com/design/DAHAiN_OG68/3itKJNmlflSALfVwwKLIfw/edit?utm_content=DAHAiN_OG68&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) · ✍️ [프로젝트 후기](https://velog.io/@chiyeon01/Project-Retouching-Your-Photo)
+</td>
+<td valign="top">
 
----
+### 🎯 [Catridge Case Detect](https://github.com/chiyeon01/Catridge_case-detect-project)
+`Python` `Jupyter Notebook` `Object Detection`
+
+군 복무 중 사격 훈련에서 겪은 탄피 회수 문제를 직접 풀어보고자 기획한 **실시간 객체 탐지** 프로젝트입니다.
+
+- 흙먼지가 날리고 화질이 좋지 않은 환경에서도, 사람 눈으로 찾기 어려운 탄피를 실시간으로 탐지
+- 빠르게 낙하하는 탄피도 실시간 프레임 속도로 정확히 추적
+- 탄피가 겹치는 상황 등 한계를 직접 분석하고, augmentation · 열화상 카메라 결합 등 **개선 방향까지 문서화**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">┃</td>
+<td></td>
+</tr>
+
+<tr>
+<td align="center" valign="top" width="150">
+
+🔵<br>
+**2025.07 ~ 2025.09**
+
+</td>
+<td valign="top">
+
+### 💸 [ETF Service](https://github.com/chiyeon01/ETF-Service)
+`Python` `Streamlit` `OpenAI Function Calling` `yfinance` `Sentence-Transformers`
+
+적립식(DCA) ETF 투자자를 위한 **금융 AI Agent** 서비스입니다. *(AI 학습 및 파이프라인 설계 담당)*
+
+- 실시간 뉴스, 한국은행 발간자료, 시장 데이터를 종합해 투자 비중 조절을 조언하는 챗봇
+- Function Calling으로 주가 · 재무제표 · 뉴스 등 외부 데이터를 실시간 조회
+- 코사인 유사도(Sentence-Transformers)로 직전 분석과 비교해 **중복 알림을 걸러내는 로직** 설계
+
+</td>
+</tr>
+
+<tr>
+<td align="center">┃</td>
+<td></td>
+</tr>
+
+<tr>
+<td align="center" valign="top" width="150">
+
+🔵<br>
+**2025.09 ~ 2025.12**
+
+</td>
+<td valign="top">
 
 ### 🛜 [Routing Network System](https://github.com/chiyeon01/Routing_Network_System)
 `Streamlit` `Function Calling` `KT 믿:음 2.0 Mini`
@@ -58,29 +115,39 @@
 
 📽️ [발표자료](https://www.canva.com/design/DAGxmiVe42Y/EvFHh2YEhw-YAZhYEEYcdg/edit?utm_content=DAGxmiVe42Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
----
+</td>
+</tr>
 
-### 💸 [ETF Service](https://github.com/chiyeon01/ETF-Service)
-`Python` `Streamlit` `OpenAI Function Calling` `yfinance` `Sentence-Transformers`
+<tr>
+<td align="center">┃</td>
+<td></td>
+</tr>
 
-적립식(DCA) ETF 투자자를 위한 **금융 AI Agent** 서비스입니다. *(AI 학습 및 파이프라인 설계 담당)*
+<tr>
+<td align="center" valign="top" width="150">
 
-- 실시간 뉴스, 한국은행 발간자료, 시장 데이터를 종합해 투자 비중 조절을 조언하는 챗봇
-- Function Calling으로 주가 · 재무제표 · 뉴스 등 외부 데이터를 실시간 조회
-- 코사인 유사도(Sentence-Transformers)로 직전 분석과 비교해 **중복 알림을 걸러내는 로직** 설계
+🔵<br>
+**2025.10 ~ 2026.02**
 
----
+</td>
+<td valign="top">
 
-### 🎯 [Catridge Case Detect](https://github.com/chiyeon01/Catridge_case-detect-project)
-`Python` `Jupyter Notebook` `Object Detection`
+### 📸 [Retouch Your Photo](https://github.com/chiyeon01/Retouch_Your_Photo)
+`Flutter` `Dart` `PyTorch Lite` `YOLO` `MobileNet`
 
-군 복무 중 사격 훈련에서 겪은 탄피 회수 문제를 직접 풀어보고자 기획한 **실시간 객체 탐지** 프로젝트입니다.
+특정 사진작가의 스타일을 학습해 실시간으로 촬영 구도를 가이드해주는 **Flutter 앱**입니다.
 
-- 흙먼지가 날리고 화질이 좋지 않은 환경에서도, 사람 눈으로 찾기 어려운 탄피를 실시간으로 탐지
-- 빠르게 낙하하는 탄피도 실시간 프레임 속도로 정확히 추적
-- 탄피가 겹치는 상황 등 한계를 직접 분석하고, augmentation · 열화상 카메라 결합 등 **개선 방향까지 문서화**
+- YOLO(객체 탐지) · Depth Estimator(원근감 추정) · MobileNet(특징 추출) · Embedding(작가 스타일 추출) · Regression Layer를 결합한 **커스텀 모델을 직접 설계**
+- 좌우 / 상하 / 앞뒤 / 기울기 / 회전 / Good까지 **6축 실시간 가이드** 제공
+- PyTorch Lite로 온디바이스 추론을 구현해 카메라 화면에서 바로 피드백
 
----
+📽️ [발표자료](https://www.canva.com/design/DAHAiN_OG68/3itKJNmlflSALfVwwKLIfw/edit?utm_content=DAHAiN_OG68&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) · ✍️ [프로젝트 후기](https://velog.io/@chiyeon01/Project-Retouching-Your-Photo)
+
+</td>
+</tr>
+
+</tbody>
+</table>
 
 ## 🛠 Tech Stack
 
