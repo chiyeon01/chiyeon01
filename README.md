@@ -16,7 +16,7 @@
 - 🔍 DACON 경진대회를 통해 정형·비전 데이터를 다루는 실전 감각을 키우는 중입니다
 - 🤖 최근에는 Function Calling, LLM Agent 등 실제 서비스에 붙일 수 있는 AI에 관심이 많습니다
 - 📱 모델을 모바일 앱·웹 서비스처럼 "쓸 수 있는 형태"로 완성하는 걸 좋아합니다
-- 🧮 백준(BOJ)으로 알고리즘 기초 체력도 함께 쌓고 있습니다
+- 🧮 알고리즘 수학에 관심이 많아 틈틈이 공부 중입니다.
 
 ---
 
@@ -45,10 +45,6 @@
 - PyTorch Lite로 온디바이스 추론을 구현해 카메라 화면에서 바로 피드백
 
 📽️ [발표자료](https://www.canva.com/design/DAHAiN_OG68/3itKJNmlflSALfVwwKLIfw/edit?utm_content=DAHAiN_OG68&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) · ✍️ [프로젝트 후기](https://velog.io/@chiyeon01/Project-Retouching-Your-Photo)
-
-<div align="center">
-<img src="https://github.com/chiyeon01/Retouch_Your_Photo/raw/main/demo.gif" width="380"/>
-</div>
 
 ---
 
