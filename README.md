@@ -63,7 +63,7 @@
 ### 💸 [ETF Service](https://github.com/chiyeon01/ETF-Service)
 `Python` `Streamlit` `OpenAI Function Calling` `yfinance` `Sentence-Transformers`
 
-적립식(DCA) ETF 투자자를 위한 **금융 AI Agent** 서비스입니다. *(2인 팀 · AI 학습 및 파이프라인 설계 담당)*
+적립식(DCA) ETF 투자자를 위한 **금융 AI Agent** 서비스입니다. *(AI 학습 및 파이프라인 설계 담당)*
 
 - 실시간 뉴스, 한국은행 발간자료, 시장 데이터를 종합해 투자 비중 조절을 조언하는 챗봇
 - Function Calling으로 주가 · 재무제표 · 뉴스 등 외부 데이터를 실시간 조회
