@@ -173,7 +173,7 @@
 - 이후, 일정량 이상의 충격이 감지되면 IOT COSS로 GPS 정보와 함께 충격량도 저장 후, FastAPI서버에 전달
 - FastAPI에서는 이 충격이 정말 균열에 의한 것인지 실시간 Camera를 통해 Segmentation Model로 분석 후 판단하여 UI에 띄우고 저장.
 
-📽️ [발표자료](https://www.canva.com/design/DAHAiN_OG68/3itKJNmlflSALfVwwKLIfw/edit?utm_content=DAHAiN_OG68&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+📽️ [발표자료](https://canva.link/z05u8pkmogeuden) 
 
 </td>
 </tr>
