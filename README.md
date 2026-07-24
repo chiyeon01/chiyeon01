@@ -28,7 +28,7 @@
 | [건설용 자갈 암석 종류 분류 AI 경진대회](https://dacon.io/competitions/official/236471/overview/description) | 32/342<br/>(상위 9.35%) | 건설용 자갈 이미지 기반 암석 종류 분류 (Vision) |
 | [HAI(하이)! - Hecto AI Challenge](https://dacon.io/competitions/official/236493/overview/description) | 70/748<br/>(상위 9.35%) | 중고차 이미지 기반 차종 분류 (Vision) |
 | [데이콘 x BDA 학습자 수료 예측 AI 경진대회](https://dacon.io/competitions/official/236519/overview/description) | 27/275<br/>(상위 9.81%) | 학습자 설문 데이터 기반 수료 여부 예측 |
-| **[26년 ALOM DEMO]**[ALOM (@alomsejong)](https://www.instagram.com/alomsejong/) | 3등 우수상🥉 | 특정 사진작가의 스타일을 학습해 실시간으로 촬영 구도를 가이드
+| [26년 ALOM DEMO (@alomsejong)](https://www.instagram.com/alomsejong/) | 3등🥉 | 특정 사진작가의 스타일을 학습해 실시간으로 촬영 구도를 가이드
 
 ---
 
