@@ -164,7 +164,7 @@
 </td>
 <td valign="top">
 
-### 📸 [Crack Detection System](https://github.com/chiyeon01/Crack_Detection_System)
+### 🛣️ [Crack Detection System](https://github.com/chiyeon01/Crack_Detection_System)
 `Arduino` `IOT COSS` `FastAPI` `PyTorch` `YOLO` 
 
 도로의 미세한 균열을 센서를 통해 충격량을 1차적으로 파악하고, GPS와 Segmentation Model을 통해 최종적으로 균열의 상태를 파악해 지도에 표시하여 **도로 상태를 관리하는 시스템**입니다.
