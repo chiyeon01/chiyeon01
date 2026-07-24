@@ -110,7 +110,7 @@
 
 ---
 
-## 📚 알고리즘
+## 📚 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcy4023)](https://solved.ac/jcy4023/)
 
 ## 📊 GitHub Stats
