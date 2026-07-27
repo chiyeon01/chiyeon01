@@ -50,6 +50,17 @@ Like a candle, I burn quietly and steadily until the end. I hope to change the w
 
 <br/>
 
+## 📚 Currently Learning
+
+I'm currently studying to become an engineer who can deploy models as more diverse kinds of services and handle large-scale data as well.
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+---
+
 ## 🏆 Competitions & Awards
 
 | Competition | Result | Topic |
@@ -207,17 +218,6 @@ A **road-condition management system** that first estimates impact magnitude via
 
 </tbody>
 </table>
-
-## 📚 Currently Learning
-
-I'm currently studying to become an engineer who can deploy models as more diverse kinds of services and handle large-scale data as well.
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
----
 
 ## 📚 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcy4023)](https://solved.ac/jcy4023/)
