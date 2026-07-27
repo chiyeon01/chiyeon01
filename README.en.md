@@ -23,6 +23,33 @@ Like a candle, I burn quietly and steadily until the end. I hope to change the w
 
 ---
 
+## 🛠 Tech Stack
+
+**Language**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+**Machine Learning / Deep Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+**Frontend / Server**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+**Tools**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://velog.io/@chiyeon01/series)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@chiyeon01/series)
+
+<br/>
+
 ## 🏆 Competitions & Awards
 
 | Competition | Result | Topic |
@@ -181,31 +208,6 @@ A **road-condition management system** that first estimates impact magnitude via
 </tbody>
 </table>
 
-## 🛠 Tech Stack
-
-**Language**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-**Frontend**
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-**Server**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Machine Learning / Deep Learning**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-<br/>
-
 ## 📚 Currently Learning
 
 I'm currently studying to become an engineer who can deploy models as more diverse kinds of services and handle large-scale data as well.
@@ -220,18 +222,8 @@ I'm currently studying to become an engineer who can deploy models as more diver
 ## 📚 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcy4023)](https://solved.ac/jcy4023/)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/chiyeon01?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717)](https://github.com/chiyeon01?tab=followers)
-[![View Repositories](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chiyeon01?tab=repositories)
-
-</div>
-
 ---
 
 ## ✉ Contact
 
-[![Velog](https://velog-readme-stats.vercel.app/api/badge?name=03_is_good)](https://velog.io/@chiyeon01/series)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chiyeon01)
+Email: cyj588369@gmail.com
