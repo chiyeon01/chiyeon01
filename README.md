@@ -21,6 +21,7 @@
 - 📱 모델을 모바일 앱·웹 서비스처럼 "쓸 수 있는 형태"로 완성하는 걸 좋아합니다
 - 🧮 알고리즘 수학에 관심이 많아 틈틈이 공부 중입니다.
 
+모델을 더 다양한 형태의 서비스로 배포하고, 대용량 데이터까지 다룰 수 있는 엔지니어가 되기 위해 공부하고 있습니다.
 ---
 
 ## 🛠 Tech Stack
@@ -50,12 +51,11 @@
 
 ## 📚 Currently Learning
 
-모델을 더 다양한 형태의 서비스로 배포하고, 대용량 데이터까지 다룰 수 있는 엔지니어가 되기 위해 공부하고 있습니다.
-
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
