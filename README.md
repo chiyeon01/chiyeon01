@@ -197,8 +197,8 @@
 <tr>
 <td align="center" valign="top" width="150">
 
-🟠<br>
-2026.06 ~
+🔵<br>
+2026.06 ~ 2026.08
 
 </td>
 <td valign="top">
