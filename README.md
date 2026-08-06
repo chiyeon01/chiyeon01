@@ -198,7 +198,7 @@
 <td align="center" valign="top" width="150">
 
 🔵<br>
-2026.06 ~ 2026.08
+**2026.06 ~ 2026.08**
 
 </td>
 <td valign="top">
@@ -213,6 +213,25 @@
 - FastAPI에서는 이 충격이 정말 균열에 의한 것인지 실시간 Camera를 통해 Segmentation Model로 분석 후 판단하여 UI에 띄우고 저장.
 
 📽️ [발표자료](https://canva.link/z05u8pkmogeuden)
+
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="top" width="150">
+
+🟠<br>
+2026.08 ~
+
+</td>
+<td valign="top">
+
+### 🛣️ [ALOM-WEB](https://github.com/TEAM-ALOM)
+`FastAPI` ...
+
+세종대학교 중앙동아리 ALOM 웹페이지 개발중..
+
+- 추가 기능 개발중..
 
 </td>
 </tr>
