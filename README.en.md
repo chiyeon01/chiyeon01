@@ -16,7 +16,7 @@ I'm an aspiring AI engineer who wants to define problems with data, find answers
 Like a candle, I burn quietly and steadily until the end. I hope to change the world for the better with my own skills and ideas. 😀
 
 - 🎓 2nd-year student, Dept. of Intelligent Mechatronics Engineering, Sejong University
-- 🔍 Building practical experience with tabular and vision data through DACON competitions
+- 🔍 Building practical experience with tabular and vision data through competitions
 - 🤖 Recently interested in AI that can be integrated into real services, such as Function Calling and LLM Agents
 - 📱 I enjoy turning models into something genuinely usable, like mobile apps or web services
 - 🧮 Interested in algorithmic mathematics and study it whenever I get the chance
@@ -196,8 +196,8 @@ A **Flutter app** that learns a specific photographer's style and guides your sh
 <tr>
 <td align="center" valign="top" width="150">
 
-🟠<br>
-2026.06 ~
+🔵<br>
+**2026.06 ~ 2026.08**
 
 </td>
 <td valign="top">
